@@ -1,0 +1,16 @@
+{
+"name": "aNpT",
+"version": "1.0.0",
+"description": "",
+"main": "truffle-config.js",
+"directories": {
+"test": "hawk"
+},
+"scripts": {
+"besugo": " besu --data-path=/home/hawk/aNpMain/aNpNet/node1/nd1  --genesis-file=/home/hawk/aNpMain/aNpNet/aNpNetPrivateGenesis.json --network-id=1337 --miner-enabled --miner-coinbase fe3b557e8fb62b89f4916b721be55ceb828dbd73 --rpc-http-enabled --host-allowlist='*' --rpc-http-cors-origins='all' "
+},
+
+"keyword": [],
+"author": "hawk",
+"license": "ISC"
+}
