@@ -70,5 +70,7 @@ module.exports = {
   }
 };
 .........................
-#use anp_cross_border_sol for cross border check
-#use xylo_sol for new encryption test
+#use anp_new for updated method check
+#use xylo_sol for new cross_border test
+#use little_ace_sol for post lattice_based_encryption check 
+#use anp_lightweight for light_weight encryption test
