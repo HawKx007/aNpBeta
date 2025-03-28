@@ -74,3 +74,4 @@ module.exports = {
 #use xylo_sol for new cross_border test
 #use little_ace_sol for post lattice_based_encryption check 
 #use anp_lightweight for light_weight encryption test
+#use anp_cross_border0.2.0 --> latest smartcontract update....
