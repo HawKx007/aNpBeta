@@ -1,3 +1,14 @@
-Design and Development by Raisul Hasan Shahrukh (Year 2023-ongoing). 
+## 👨‍💻 Design & Development  
+Crafted by **Raisul Hasan Shahrukh** *(2023–Present)*
 
-For any feedback or collaboration please reach me out via >>> "r.h.shahrukh@ieee.org"
+---
+
+### 🤝 Feedback & Collaborations  
+I’d love to hear from you. Reach out at:  
+📧 **r.h.shahrukh@ieee.org**
+
+---
+
+### 🔎 Want to explore my research?
+Take a look at my Google Scholar profile:  
+🌐 **[Raisul Hasan Shahrukh — Google Scholar](https://scholar.google.com/citations?hl=en&user=GyqIKmcAAAAJ)**
